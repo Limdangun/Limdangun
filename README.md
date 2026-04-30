@@ -20,6 +20,25 @@
 
 ---
 
+## 🏅 Certifications
+
+| 자격증 | 발급기관 |
+|--------|---------|
+| **ADsP** (데이터분석 준전문가) | 한국데이터산업진흥원 |
+| **SQLD** (SQL 개발자) | 한국데이터산업진흥원 |
+
+---
+
+## 💼 Project Experience
+
+| 프로젝트 | 설명 | 기술 스택 |
+|---------|------|----------|
+| **dangun-week1** | 웹 기반 게임 프로젝트 | HTML, CSS, JavaScript |
+
+> 프로젝트 경험이 추가될 예정입니다.
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -39,14 +58,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
----
-
-## 🚀 Projects
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|----------|
-| **dangun-week1** | 웹 기반 게임 프로젝트 | HTML, CSS, JavaScript |
 
 ---
 
