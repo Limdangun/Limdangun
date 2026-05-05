@@ -35,6 +35,7 @@
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---------|------|----------|------|
 | **dangun-week1** | 바닐라 JS로 구현한 웹 기반 게임 프로젝트 | HTML, CSS, JavaScript | [GitHub](https://github.com/Limdangun/dangun-week1) |
+| **tox21-ml-project** | GCN+Transformer 기반 분자 독성 예측 멀티라벨 분류 모델 (Physico-Chemical Decoupled Transformer) | Python, PyTorch, PyG, RDKit, Hydra | [GitHub](https://github.com/Limdangun/tox21-ml-project) |
 
 ---
 
